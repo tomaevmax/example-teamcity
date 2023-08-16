@@ -14,6 +14,6 @@ public class Welcomer{
 		return "something in the way";
 	}
 	public String sayHunter(){
-		return "Hunter test keys";
+		return "hunter test keys";
 	}
 }
